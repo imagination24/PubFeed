@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https:&#47;&#47;pub.dev&#47;feed.atom</id>
+    <title>Pub Packages for Dart</title>
+    <updated>2023-04-17T01:51:47.153060Z</updated>
+    <author>
+        <name>Dart Team</name>
+    </author>
+    <link href="https://pub.dev/" rel="alternate" />
+    <link href="https://pub.dev/feed.atom" rel="self" />
+    <generator version="0.1.0">Pub Feed Generator</generator>
+    <subtitle>Last Updated Packages</subtitle>
+    <entry>
+        <id>urn:uuid:4517029f-c330-4430-9cfd-fcbc940666b9</id>
+        <title>v0.3.1 of messageport_tizen</title>
+        <updated>2023-04-17T01:49:00.034275Z</updated>
+        <author>
+            <name>tizen.org</name>
+        </author>
+        <content>A Flutter plugin that allows communication between multiple applications on Tizen
+            using Tizen Message Port.
+        </content>
+        <link href="https://pub.dev/packages/messageport_tizen" rel="alternate"
+            title="messageport_tizen" />
+    </entry>
+    <entry>
+        <id>urn:uuid:3151cdae-a36d-4693-96b7-6eb4e8ff699f</id>
+        <title>v0.0.1-dev.100 of pc_plugins</title>
+        <updated>2023-04-17T01:46:59.860435Z</updated>
+        <content>Plugins for projects in pc team.</content>
+        <link href="https://pub.dev/packages/pc_plugins" rel="alternate" title="pc_plugins" />
+    </entry>
+    <entry>
+        <id>urn:uuid:d5e11947-c072-41dd-b08b-79d0a226ec8b</id>
+        <title>v0.7.1 of webview_flutter_tizen</title>
+        <updated>2023-04-17T01:46:28.801204Z</updated>
+        <author>
+            <name>tizen.org</name>
+        </author>
+        <content>Tizen implementation of the webview_flutter plugin.</content>
+        <link href="https://pub.dev/packages/webview_flutter_tizen" rel="alternate"
+            title="webview_flutter_tizen" />
+    </entry>
+    <entry>
+        <id>urn:uuid:c432d220-ef85-4ec4-a116-29d3c3810bde</id>
+        <title>v0.0.5+2 of features_tour</title>
+        <updated>2023-04-17T01:20:03.718966Z</updated>
+        <author>
+            <name>lamthanhnhan.com</name>
+        </author>
+        <content>Features Tour is a package that enables you to easily create tours to introduce
+            your widget features in your app with order.
+        </content>
+        <link href="https://pub.dev/packages/features_tour" rel="alternate" title="features_tour" />
+    </entry>
+    <entry>
+        <id>urn:uuid:2dfed297-bbbf-4e3a-b19e-8319d6be8812</id>
+        <title>v0.0.1 of plugin_sensie</title>
+        <updated>2023-04-17T01:19:46.502728Z</updated>
+        <content>Sensie Flutter plugin</content>
+        <link href="https://pub.dev/packages/plugin_sensie" rel="alternate" title="plugin_sensie" />
+    </entry>
+    <entry>
+        <id>urn:uuid:cf1f13c5-28a7-4ba3-a8c8-7da261bbbbc2</id>
+        <title>v0.0.5+1 of features_tour</title>
+        <updated>2023-04-17T01:18:46.955516Z</updated>
+        <author>
+            <name>lamthanhnhan.com</name>
+        </author>
+        <content>Features Tour is a package that enables you to easily create tours to introduce
+            your widget features in your app with order.
+        </content>
+        <link href="https://pub.dev/packages/features_tour" rel="alternate" title="features_tour" />
+    </entry>
+    <entry>
+        <id>urn:uuid:9e4b883c-1919-405b-811b-ab0ab691ac12</id>
+        <title>v1.0.1 of docstring_generator_annotator</title>
+        <updated>2023-04-17T01:02:53.629125Z</updated>
+        <content>A simple dart annotator that can be used for generating docstrings for dart code.
+            Inteded for use as a dependency of the &#39;docstring_generator&#39; vscode extension.
+        </content>
+        <link href="https://pub.dev/packages/docstring_generator_annotator" rel="alternate"
+            title="docstring_generator_annotator" />
+    </entry>
+    <entry>
+        <id>urn:uuid:dd1d9b5c-9afe-49c0-adfa-1b9db98715c3</id>
+        <title>v1.0.2 of flutter_fuse_connect</title>
+        <updated>2023-04-17T00:42:18.691968Z</updated>
+        <author>
+            <name>letsfuse.com</name>
+        </author>
+        <content>Combine the best financial aggregators, increase connection success rate, reduce
+            disconnections and expand into new markets fast - with one unified API.
+        </content>
+        <link href="https://pub.dev/packages/flutter_fuse_connect" rel="alternate"
+            title="flutter_fuse_connect" />
+    </entry>
+    <entry>
+        <id>urn:uuid:9ae443f1-6430-4431-b9ac-9b9497c95aba</id>
+        <title>v0.1.0 of bluesky_cli</title>
+        <updated>2023-04-16T22:44:11.102623Z</updated>
+        <author>
+            <name>atproto.shinyakato.dev</name>
+        </author>
+        <content>A powerful CLI tool that allows Bluesky Social&#39;s APIs to be executed from the
+            command line powered by Dart language.
+        </content>
+        <link href="https://pub.dev/packages/bluesky_cli" rel="alternate" title="bluesky_cli" />
+    </entry>
+    <entry>
+        <id>urn:uuid:fd794dde-e529-4239-9e37-4d383c856504</id>
+        <title>v0.9.2+1 of cached_media</title>
+        <updated>2023-04-16T22:40:44.936782Z</updated>
+        <author>
+            <name>loichamdi.com</name>
+        </author>
+        <content>Easily cache your media &amp; save bandwidth. You will be able to quickly and
+            easily handle your media into a powerfull widget.
+        </content>
+        <link href="https://pub.dev/packages/cached_media" rel="alternate" title="cached_media" />
+    </entry>
+    <entry>
+        <id>urn:uuid:2dbf0b48-2718-418d-bdff-6ae3aaedf0c2</id>
+        <title>v1.3.67 of bones_api</title>
+        <updated>2023-04-16T22:39:55.538742Z</updated>
+        <content>Bones_API - A Powerful API backend framework for Dart. Comes with a built-in HTTP
+            Server, routes handler, entity handler, SQL translator, and DB adapters.
+        </content>
+        <link href="https://pub.dev/packages/bones_api" rel="alternate" title="bones_api" />
+    </entry>
+    <entry>
+        <id>urn:uuid:db5cf242-8999-4fcd-a0f8-9602d689774f</id>
+        <title>v1.1.13 of jovial_svg</title>
+        <updated>2023-04-16T22:39:41.772111Z</updated>
+        <author>
+            <name>jovial.com</name>
+        </author>
+        <content>SVG - Robust rendering of Scalable Vector Graphic images, supporting a well-defined
+            profile of SVG and a fast-loading binary storage format.
+        </content>
+        <link href="https://pub.dev/packages/jovial_svg" rel="alternate" title="jovial_svg" />
+    </entry>
+    <entry>
+        <id>urn:uuid:6e22cc14-70c6-4827-9b6b-126204c81149</id>
+        <title>v0.11.0 of star_rating</title>
+        <updated>2023-04-16T22:36:21.322504Z</updated>
+        <content>A customizable Flutter widget to rating with stars. You are able to set color,
+            size, number and space between stars.
+        </content>
+        <link href="https://pub.dev/packages/star_rating" rel="alternate" title="star_rating" />
+    </entry>
+    <entry>
+        <id>urn:uuid:cd264b41-35fa-4196-ba09-2079fd6cd838</id>
+        <title>v1.1.13-rc.1 of jovial_svg</title>
+        <updated>2023-04-16T22:07:11.255721Z</updated>
+        <author>
+            <name>jovial.com</name>
+        </author>
+        <content>SVG - Robust rendering of Scalable Vector Graphic images, supporting a well-defined
+            profile of SVG and a fast-loading binary storage format.
+        </content>
+        <link href="https://pub.dev/packages/jovial_svg" rel="alternate" title="jovial_svg" />
+    </entry>
+    <entry>
+        <id>urn:uuid:fff828d8-5282-481a-99e1-f53b6c4446ca</id>
+        <title>v0.9.1+1 of cached_media</title>
+        <updated>2023-04-16T22:02:28.315114Z</updated>
+        <author>
+            <name>loichamdi.com</name>
+        </author>
+        <content>Easily cache your media &amp; save bandwidth. You will be able to quickly and
+            easily handle your media into a powerfull widget.
+        </content>
+        <link href="https://pub.dev/packages/cached_media" rel="alternate" title="cached_media" />
+    </entry>
+    <entry>
+        <id>urn:uuid:e2f7d583-afae-4b6e-a2b5-885b6923dd5e</id>
+        <title>v1.2.2 of flutter_widgetz</title>
+        <updated>2023-04-16T21:47:09.618337Z</updated>
+        <author>
+            <name>mj12358.dev</name>
+        </author>
+        <content>A set of Flutter widgets I use in various projects. Including date and checkbox
+            inputs, bottom navigation bar, color picker, divider and more!
+        </content>
+        <link href="https://pub.dev/packages/flutter_widgetz" rel="alternate"
+            title="flutter_widgetz" />
+    </entry>
+    <entry>
+        <id>urn:uuid:7f309ae4-3b02-45b7-923f-85452d0893f6</id>
+        <title>v1.1.9 of pix_sicoob</title>
+        <updated>2023-04-16T21:46:58.397046Z</updated>
+        <author>
+            <name>acxtech.com.br</name>
+        </author>
+        <content>Easy-to-use interface for integrating Flutter apps with Sicoob&#39;s Pix API.
+        </content>
+        <link href="https://pub.dev/packages/pix_sicoob" rel="alternate" title="pix_sicoob" />
+    </entry>
+    <entry>
+        <id>urn:uuid:b3765101-949a-43dd-b72c-521ac1089736</id>
+        <title>v1.1.8 of pix_sicoob</title>
+        <updated>2023-04-16T21:39:49.970261Z</updated>
+        <author>
+            <name>acxtech.com.br</name>
+        </author>
+        <content>Easy-to-use interface for integrating Flutter apps with Sicoob&#39;s Pix API.
+        </content>
+        <link href="https://pub.dev/packages/pix_sicoob" rel="alternate" title="pix_sicoob" />
+    </entry>
+    <entry>
+        <id>urn:uuid:0fcc1a45-6a6a-4c4e-b3d2-12d6c37360dc</id>
+        <title>v0.0.1 of riverpod_state</title>
+        <updated>2023-04-16T21:27:17.831494Z</updated>
+        <content>Add idle state to async provider, support code generation</content>
+        <link href="https://pub.dev/packages/riverpod_state" rel="alternate"
+            title="riverpod_state" />
+    </entry>
+    <entry>
+        <id>urn:uuid:324aada9-9727-4ae9-8c88-ecda3e91f923</id>
+        <title>v0.1.5 of reactable</title>
+        <updated>2023-04-16T21:25:47.882590Z</updated>
+        <author>
+            <name>qlevar.de</name>
+        </author>
+        <content>a reactive state management library that automatically updates the UI when values
+            of an reactable objects change .It is easy, light, fast and well tested.
+        </content>
+        <link href="https://pub.dev/packages/reactable" rel="alternate" title="reactable" />
+    </entry>
+    <entry>
+        <id>urn:uuid:21e1ad73-8048-4294-ac6d-c7beba176a05</id>
+        <title>v0.161.0 of lucide_icons</title>
+        <updated>2023-04-16T21:20:58.050966Z</updated>
+        <author>
+            <name>lucide.dev</name>
+        </author>
+        <content>A Lucide icon library package for Flutter applications. Fork of Feather Icons, open
+            for anyone to contribute icons.
+        </content>
+        <link href="https://pub.dev/packages/lucide_icons" rel="alternate" title="lucide_icons" />
+    </entry>
+    <entry>
+        <id>urn:uuid:0ba9f0a4-59a2-45f9-901b-821ed34a8990</id>
+        <title>v1.3.0 of mvvm_plus</title>
+        <updated>2023-04-16T21:17:00.302750Z</updated>
+        <author>
+            <name>richardcoutts.com</name>
+        </author>
+        <content>MVVM+ is a lightweight Flutter implementation of MVVM, plus a locator for sharing
+            states via a global registry (like GetIt) or inherited widgets (like Provider).
+        </content>
+        <link href="https://pub.dev/packages/mvvm_plus" rel="alternate" title="mvvm_plus" />
+    </entry>
+    <entry>
+        <id>urn:uuid:d9e83118-7093-4cd6-bcf3-adddbb6aa750</id>
+        <title>v1.1.5 of p2plib</title>
+        <updated>2023-04-16T21:00:46.036673Z</updated>
+        <content>Tooling for encrypted udp datagram peer to peer communication</content>
+        <link href="https://pub.dev/packages/p2plib" rel="alternate" title="p2plib" />
+    </entry>
+    <entry>
+        <id>urn:uuid:0a2a4c2f-94d5-4bf3-932a-189b41e76548</id>
+        <title>v1.1.4 of p2plib</title>
+        <updated>2023-04-16T20:45:48.157812Z</updated>
+        <content>Tooling for encrypted udp datagram peer to peer communication</content>
+        <link href="https://pub.dev/packages/p2plib" rel="alternate" title="p2plib" />
+    </entry>
+    <entry>
+        <id>urn:uuid:eee0bedc-49fd-478b-a4e9-b61707847dec</id>
+        <title>v0.7.6 of searchfield</title>
+        <updated>2023-04-16T20:40:40.366509Z</updated>
+        <author>
+            <name>maheshjamdade.com</name>
+        </author>
+        <content>A highly customizable, simple and easy to use flutter Widget to add a searchfield
+            to your Flutter Application. This Widget allows you to search and select from list of
+            suggestions.
+        </content>
+        <link href="https://pub.dev/packages/searchfield" rel="alternate" title="searchfield" />
+    </entry>
+    <entry>
+        <id>urn:uuid:cfb86154-365e-42e5-b6b8-3faeb8277b5f</id>
+        <title>v1.1.3+1 of p2plib</title>
+        <updated>2023-04-16T20:40:26.832907Z</updated>
+        <content>Tooling for encrypted udp datagram peer to peer communication</content>
+        <link href="https://pub.dev/packages/p2plib" rel="alternate" title="p2plib" />
+    </entry>
+    <entry>
+        <id>urn:uuid:a29a4404-4508-471b-a42b-a04a01c72d82</id>
+        <title>v3.8.1 of yust</title>
+        <updated>2023-04-16T20:38:04.962544Z</updated>
+        <content>Build awesome apps with Flutter and Firebase.</content>
+        <link href="https://pub.dev/packages/yust" rel="alternate" title="yust" />
+    </entry>
+    <entry>
+        <id>urn:uuid:a43cf372-322a-4f2f-aed5-a7baf24e8061</id>
+        <title>v2.0.0 of country_flags</title>
+        <updated>2023-04-16T20:01:29.289253Z</updated>
+        <author>
+            <name>fluttered.io</name>
+        </author>
+        <content>A Flutter package to show a flag icon from a ISO country code.</content>
+        <link href="https://pub.dev/packages/country_flags" rel="alternate" title="country_flags" />
+    </entry>
+    <entry>
+        <id>urn:uuid:c9175b8b-6366-4f47-bbe3-80b0b6c0be67</id>
+        <title>v2.0.0 of empathetech_flutter_ui</title>
+        <updated>2023-04-16T19:44:42.523924Z</updated>
+        <author>
+            <name>empathetech.net</name>
+        </author>
+        <content>A Flutter package for fast, high quality UI development</content>
+        <link href="https://pub.dev/packages/empathetech_flutter_ui" rel="alternate"
+            title="empathetech_flutter_ui" />
+    </entry>
+    <entry>
+        <id>urn:uuid:3851c442-68fc-4a68-b3ae-3169bd0258bc</id>
+        <title>v1.0.3 of flutter_app_info</title>
+        <updated>2023-04-16T19:38:43.835619Z</updated>
+        <author>
+            <name>tazatechnology.com</name>
+        </author>
+        <content>Utility package to easily access device, platform, target, package, and app version
+            information
+        </content>
+        <link href="https://pub.dev/packages/flutter_app_info" rel="alternate"
+            title="flutter_app_info" />
+    </entry>
+    <entry>
+        <id>urn:uuid:90d807d5-5e7d-41aa-a424-ea9bd4a08631</id>
+        <title>v1.0.2 of mapsindoors</title>
+        <updated>2023-04-16T19:29:19.275521Z</updated>
+        <content>A MapsIndoors flutter plugin</content>
+        <link href="https://pub.dev/packages/mapsindoors" rel="alternate" title="mapsindoors" />
+    </entry>
+    <entry>
+        <id>urn:uuid:94b64c07-b099-4daa-8624-6076fa733ee7</id>
+        <title>v1.0.1 of mapsindoors_ios</title>
+        <updated>2023-04-16T19:27:54.187003Z</updated>
+        <content>iOS implementation of the mapsindoors plugin</content>
+        <link href="https://pub.dev/packages/mapsindoors_ios" rel="alternate"
+            title="mapsindoors_ios" />
+    </entry>
+    <entry>
+        <id>urn:uuid:5fd273a9-202a-4b72-9e7f-2e91aaf07953</id>
+        <title>v0.0.12 of share_me</title>
+        <updated>2023-04-16T19:27:41.943096Z</updated>
+        <content>ShareMe is a Flutter plugin that allows for easy sharing in iOS and Android apps.
+            It utilizes native share menus to share content such as text, images, and links with
+            other installed apps. It has a si [...]
+        </content>
+        <link href="https://pub.dev/packages/share_me" rel="alternate" title="share_me" />
+    </entry>
+    <entry>
+        <id>urn:uuid:a7ede63b-29c7-40b0-98d3-23bd9c73a296</id>
+        <title>v2.0.4-alpha+1681672923243 of gql_dedupe_link</title>
+        <updated>2023-04-16T19:23:52.230234Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GQL Link to deduplicate identical in-flight execution requests</content>
+        <link href="https://pub.dev/packages/gql_dedupe_link" rel="alternate"
+            title="gql_dedupe_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:3c96a028-53bd-4ba8-996a-12ef95a75bb8</id>
+        <title>v0.3.1-alpha+1681672923236 of gql_dio_link</title>
+        <updated>2023-04-16T19:23:44.349686Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>Similar to gql_http_link, gql_dio_link is a GQL Terminating Link to execute
+            requests via Dio using JSON
+        </content>
+        <link href="https://pub.dev/packages/gql_dio_link" rel="alternate" title="gql_dio_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:df08410b-afcd-4e5e-8f31-e852a84c8ea1</id>
+        <title>v0.8.1-alpha+1681672923225 of gql_build</title>
+        <updated>2023-04-16T19:23:36.808108Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>Useful builders for your GraphQL SDL and documents. Based on
+            package:gql_code_builder and package:build
+        </content>
+        <link href="https://pub.dev/packages/gql_build" rel="alternate" title="gql_build" />
+    </entry>
+    <entry>
+        <id>urn:uuid:cd871f7b-8bb7-4954-83b5-1c74dce8abd1</id>
+        <title>v0.7.3-alpha+1681672923213 of gql_code_builder</title>
+        <updated>2023-04-16T19:23:23.878273Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>Dart code builders taking *.graphql documents and SDL to build useful classes.
+        </content>
+        <link href="https://pub.dev/packages/gql_code_builder" rel="alternate"
+            title="gql_code_builder" />
+    </entry>
+    <entry>
+        <id>urn:uuid:041b5aa1-1b49-447c-ba1e-059f91ff114d</id>
+        <title>v0.2.4-alpha+1681672923201 of gql_error_link</title>
+        <updated>2023-04-16T19:23:07.652691Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GQL Link to handle execution errors and exceptions</content>
+        <link href="https://pub.dev/packages/gql_error_link" rel="alternate"
+            title="gql_error_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:30691fdd-c8c5-4862-aec9-e90391a73924</id>
+        <title>v0.4.6-alpha+1681672923194 of gql_http_link</title>
+        <updated>2023-04-16T19:23:01.196257Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GQL Terminating Link to execute requests via HTTP using JSON.</content>
+        <link href="https://pub.dev/packages/gql_http_link" rel="alternate" title="gql_http_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:b3c30b08-879c-4187-8660-40fa032b7915</id>
+        <title>v0.2.3-alpha+1681672923188 of gql_transform_link</title>
+        <updated>2023-04-16T19:22:52.699509Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GQL Link to transform Requests and Responses. May be used to update context,
+            document, variables, data, errors, etc.
+        </content>
+        <link href="https://pub.dev/packages/gql_transform_link" rel="alternate"
+            title="gql_transform_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:6815f75a-1175-434f-88bc-744f97d9ef0c</id>
+        <title>v0.3.5-alpha+1681672923179 of gql_websocket_link</title>
+        <updated>2023-04-16T19:22:46.253622Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GQL Websocket Link</content>
+        <link href="https://pub.dev/packages/gql_websocket_link" rel="alternate"
+            title="gql_websocket_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:7f6058e4-fd72-4c0c-bfea-285b7f47cc34</id>
+        <title>v0.5.2-alpha+1681672923170 of gql_link</title>
+        <updated>2023-04-16T19:22:36.971381Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>A simple and modular AST-based GraphQL request execution interface.</content>
+        <link href="https://pub.dev/packages/gql_link" rel="alternate" title="gql_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:4c105151-b77e-469a-bf87-07d16b496646</id>
+        <title>v0.4.5-alpha+1681672923162 of gql_exec</title>
+        <updated>2023-04-16T19:22:30.056324Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>Basis for GraphQL execution layer to support Link and Client.</content>
+        <link href="https://pub.dev/packages/gql_exec" rel="alternate" title="gql_exec" />
+    </entry>
+    <entry>
+        <id>urn:uuid:80a011a1-3e7f-4642-8770-4e6f4857d1fe</id>
+        <title>v0.14.2-alpha+1681672923155 of gql</title>
+        <updated>2023-04-16T19:22:23.401096Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GraphQL tools for parsing, transforming and printing GraphQL documents.</content>
+        <link href="https://pub.dev/packages/gql" rel="alternate" title="gql" />
+    </entry>
+    <entry>
+        <id>urn:uuid:572aec9b-bb59-4e11-8865-27c78bd33849</id>
+        <title>v1.1.1-alpha+1681672923130 of gql_pedantic</title>
+        <updated>2023-04-16T19:22:09.413611Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>Even more opinionated lint rules.</content>
+        <link href="https://pub.dev/packages/gql_pedantic" rel="alternate" title="gql_pedantic" />
+    </entry>
+    <entry>
+        <id>urn:uuid:4532d460-9da9-4405-bd79-196d65eef320</id>
+        <title>v1.0.0+1 of segment_anything</title>
+        <updated>2023-04-16T19:22:03.625887Z</updated>
+        <content>Flutter implementation of the Segment Anything package by Facebook [https:&#47;&#47;github.com&#47;facebookresearch&#47;segment-anything].</content>
+        <link href="https://pub.dev/packages/segment_anything" rel="alternate"
+            title="segment_anything" />
+    </entry>
+    <entry>
+        <id>urn:uuid:9a05ac78-3300-4329-9633-cc7a01915878</id>
+        <title>v0.0.11 of share_me</title>
+        <updated>2023-04-16T19:19:08.091164Z</updated>
+        <content>ShareMe is a Flutter plugin that allows for easy sharing in iOS and Android apps.
+            It utilizes native share menus to share content such as text, images, and links with
+            other installed apps. It has a si [...]
+        </content>
+        <link href="https://pub.dev/packages/share_me" rel="alternate" title="share_me" />
+    </entry>
+    <entry>
+        <id>urn:uuid:e2e0da32-3c3a-45fc-8a76-3e09f1230b11</id>
+        <title>v1.0.0+5 of u_credit_card</title>
+        <updated>2023-04-16T19:15:56.500953Z</updated>
+        <content>Credit Card UI</content>
+        <link href="https://pub.dev/packages/u_credit_card" rel="alternate" title="u_credit_card" />
+    </entry>
+    <entry>
+        <id>urn:uuid:7d01b590-184f-4269-8f90-ba7f961405ed</id>
+        <title>v0.8.5 of versionarte</title>
+        <updated>2023-04-16T18:56:16.105938Z</updated>
+        <author>
+            <name>kamranbekirov.com</name>
+        </author>
+        <content>Remotely manage your Flutter app&#39;s versioning and availability.</content>
+        <link href="https://pub.dev/packages/versionarte" rel="alternate" title="versionarte" />
+    </entry>
+    <entry>
+        <id>urn:uuid:bef8420b-97c9-4667-8946-34422274ab26</id>
+        <title>v0.1.0-nameclaim of mx</title>
+        <updated>2023-04-16T18:32:51.186647Z</updated>
+        <content>A Dart library</content>
+        <link href="https://pub.dev/packages/mx" rel="alternate" title="mx" />
+    </entry>
+    <entry>
+        <id>urn:uuid:3c1d21f5-89f7-4d59-a0b9-41f56e0684c2</id>
+        <title>v0.2.0 of use_isolate</title>
+        <updated>2023-04-16T18:31:08.354001Z</updated>
+        <author>
+            <name>lohnn.se</name>
+        </author>
+        <content>A Hook wrapper of integral_isolates making multi-threading easy using hooks
+        </content>
+        <link href="https://pub.dev/packages/use_isolate" rel="alternate" title="use_isolate" />
+    </entry>
+    <entry>
+        <id>urn:uuid:15597638-5ed5-42f5-b23f-4edb879bc1be</id>
+        <title>v0.4.0 of integral_isolates</title>
+        <updated>2023-04-16T18:31:01.151035Z</updated>
+        <author>
+            <name>lohnn.se</name>
+        </author>
+        <content>The power of Flutter&#39;s compute function, but using a long lived isolate.
+        </content>
+        <link href="https://pub.dev/packages/integral_isolates" rel="alternate"
+            title="integral_isolates" />
+    </entry>
+    <entry>
+        <id>urn:uuid:650a7241-a572-4e9b-93af-87100cc8f2ec</id>
+        <title>v0.0.2 of tflite_flutter_helper_plus</title>
+        <updated>2023-04-16T18:29:02.477828Z</updated>
+        <content>Easy, fast processing and manipulation input and output of TensorFlow Lite
+            Models.
+        </content>
+        <link href="https://pub.dev/packages/tflite_flutter_helper_plus" rel="alternate"
+            title="tflite_flutter_helper_plus" />
+    </entry>
+    <entry>
+        <id>urn:uuid:7fc61155-1793-4dff-b873-4d8fa8935cdf</id>
+        <title>v1.0.0+4 of u_credit_card</title>
+        <updated>2023-04-16T18:21:39.762743Z</updated>
+        <content>Credit Card UI</content>
+        <link href="https://pub.dev/packages/u_credit_card" rel="alternate" title="u_credit_card" />
+    </entry>
+    <entry>
+        <id>urn:uuid:7d0212df-2a94-4ce1-bd8c-402aa9cfccb0</id>
+        <title>v1.0.2 of blured_navigation_bar_x</title>
+        <updated>2023-04-16T18:16:03.475647Z</updated>
+        <content>Blured bottom navigation view</content>
+        <link href="https://pub.dev/packages/blured_navigation_bar_x" rel="alternate"
+            title="blured_navigation_bar_x" />
+    </entry>
+    <entry>
+        <id>urn:uuid:e6ec3525-0cc9-45ee-99f0-ac822af47aeb</id>
+        <title>v0.2.16 of gosemolis_utility</title>
+        <updated>2023-04-16T17:52:53.678506Z</updated>
+        <content>A utility for Driver &amp; Passenger in CODE.ID</content>
+        <link href="https://pub.dev/packages/gosemolis_utility" rel="alternate"
+            title="gosemolis_utility" />
+    </entry>
+    <entry>
+        <id>urn:uuid:08ccfc08-6bcc-4593-9b00-cacf711c1335</id>
+        <title>v2.2.0+5 of isolate_manager</title>
+        <updated>2023-04-16T17:52:02.840311Z</updated>
+        <author>
+            <name>lamthanhnhan.com</name>
+        </author>
+        <content>An easy way to create multiple isolates for a function, also keep it active to send
+            and receive data multiple times (also supports Worker on Web).
+        </content>
+        <link href="https://pub.dev/packages/isolate_manager" rel="alternate"
+            title="isolate_manager" />
+    </entry>
+    <entry>
+        <id>urn:uuid:4ba203f5-4a67-4b44-b6e6-f113efc0f333</id>
+        <title>v0.0.10 of share_me</title>
+        <updated>2023-04-16T17:44:24.629473Z</updated>
+        <content>ShareMe es un plugin para Flutter que permite compartir fácilmente en apps de iOS y
+            Android. Utiliza menús nativos de compartir para compartir contenido como texto,
+            imágenes y enlaces con otras apps i [...]
+        </content>
+        <link href="https://pub.dev/packages/share_me" rel="alternate" title="share_me" />
+    </entry>
+    <entry>
+        <id>urn:uuid:182ad454-465b-4e50-a83c-5f5c0cba1c7a</id>
+        <title>v0.0.3 of isolates_helper</title>
+        <updated>2023-04-16T17:27:43.292531Z</updated>
+        <author>
+            <name>lamthanhnhan.com</name>
+        </author>
+        <content>An easy way to create multiple long live isolates for computation, support
+            try-catch block.
+        </content>
+        <link href="https://pub.dev/packages/isolates_helper" rel="alternate"
+            title="isolates_helper" />
+    </entry>
+    <entry>
+        <id>urn:uuid:fc3ef6ee-62ed-43c8-a4e7-3e52ce4f4498</id>
+        <title>v2.0.4-alpha+1681665907904 of gql_dedupe_link</title>
+        <updated>2023-04-16T17:26:52.869939Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GQL Link to deduplicate identical in-flight execution requests</content>
+        <link href="https://pub.dev/packages/gql_dedupe_link" rel="alternate"
+            title="gql_dedupe_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:6f596beb-d1c9-4009-b3ae-9367f646dad5</id>
+        <title>v0.3.1-alpha+1681665907896 of gql_dio_link</title>
+        <updated>2023-04-16T17:26:46.534929Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>Similar to gql_http_link, gql_dio_link is a GQL Terminating Link to execute
+            requests via Dio using JSON
+        </content>
+        <link href="https://pub.dev/packages/gql_dio_link" rel="alternate" title="gql_dio_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:856c7ebc-c928-4f50-9984-0ac6497d3cac</id>
+        <title>v0.8.1-alpha+1681665907887 of gql_build</title>
+        <updated>2023-04-16T17:26:38.997959Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>Useful builders for your GraphQL SDL and documents. Based on
+            package:gql_code_builder and package:build
+        </content>
+        <link href="https://pub.dev/packages/gql_build" rel="alternate" title="gql_build" />
+    </entry>
+    <entry>
+        <id>urn:uuid:ca046018-5256-40d6-8b90-a349db5811d6</id>
+        <title>v0.7.3-alpha+1681665907880 of gql_code_builder</title>
+        <updated>2023-04-16T17:26:26.923834Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>Dart code builders taking *.graphql documents and SDL to build useful classes.
+        </content>
+        <link href="https://pub.dev/packages/gql_code_builder" rel="alternate"
+            title="gql_code_builder" />
+    </entry>
+    <entry>
+        <id>urn:uuid:f635b5d0-24c3-4764-b2b4-c08d6b322d83</id>
+        <title>v0.2.4-alpha+1681665907869 of gql_error_link</title>
+        <updated>2023-04-16T17:26:11.722130Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GQL Link to handle execution errors and exceptions</content>
+        <link href="https://pub.dev/packages/gql_error_link" rel="alternate"
+            title="gql_error_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:e3eeac26-04a1-4c35-9ad8-4f8873c375f0</id>
+        <title>v0.4.6-alpha+1681665907862 of gql_http_link</title>
+        <updated>2023-04-16T17:26:04.189114Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GQL Terminating Link to execute requests via HTTP using JSON.</content>
+        <link href="https://pub.dev/packages/gql_http_link" rel="alternate" title="gql_http_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:8ae06bf9-a045-41e2-9698-cf960904214d</id>
+        <title>v0.2.3-alpha+1681665907856 of gql_transform_link</title>
+        <updated>2023-04-16T17:25:55.526474Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GQL Link to transform Requests and Responses. May be used to update context,
+            document, variables, data, errors, etc.
+        </content>
+        <link href="https://pub.dev/packages/gql_transform_link" rel="alternate"
+            title="gql_transform_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:fb2655ab-4c30-4462-a11d-8cd8f5ab3864</id>
+        <title>v0.3.5-alpha+1681665907848 of gql_websocket_link</title>
+        <updated>2023-04-16T17:25:48.272671Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GQL Websocket Link</content>
+        <link href="https://pub.dev/packages/gql_websocket_link" rel="alternate"
+            title="gql_websocket_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:ec7b8c70-d906-41ad-b145-1c2198d3b011</id>
+        <title>v0.5.2-alpha+1681665907840 of gql_link</title>
+        <updated>2023-04-16T17:25:40.280882Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>A simple and modular AST-based GraphQL request execution interface.</content>
+        <link href="https://pub.dev/packages/gql_link" rel="alternate" title="gql_link" />
+    </entry>
+    <entry>
+        <id>urn:uuid:c19f2255-e74b-4524-9214-c9ac49e99bb8</id>
+        <title>v0.4.5-alpha+1681665907833 of gql_exec</title>
+        <updated>2023-04-16T17:25:32.637883Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>Basis for GraphQL execution layer to support Link and Client.</content>
+        <link href="https://pub.dev/packages/gql_exec" rel="alternate" title="gql_exec" />
+    </entry>
+    <entry>
+        <id>urn:uuid:ffc1b85c-e29a-4e5e-896e-baf80739cf70</id>
+        <title>v0.14.2-alpha+1681665907825 of gql</title>
+        <updated>2023-04-16T17:25:26.231231Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>GraphQL tools for parsing, transforming and printing GraphQL documents.</content>
+        <link href="https://pub.dev/packages/gql" rel="alternate" title="gql" />
+    </entry>
+    <entry>
+        <id>urn:uuid:957f88bf-3f04-40fa-a157-bb2d0b9ddcc4</id>
+        <title>v1.1.1-alpha+1681665907798 of gql_pedantic</title>
+        <updated>2023-04-16T17:25:14.049677Z</updated>
+        <author>
+            <name>gql-dart.dev</name>
+        </author>
+        <content>Even more opinionated lint rules.</content>
+        <link href="https://pub.dev/packages/gql_pedantic" rel="alternate" title="gql_pedantic" />
+    </entry>
+    <entry>
+        <id>urn:uuid:5750522b-199a-4d64-b9e0-79fa05100c19</id>
+        <title>v1.0.1 of blured_navigation_bar_x</title>
+        <updated>2023-04-16T17:24:42.595377Z</updated>
+        <content>Blured bottom navigation view</content>
+        <link href="https://pub.dev/packages/blured_navigation_bar_x" rel="alternate"
+            title="blured_navigation_bar_x" />
+    </entry>
+    <entry>
+        <id>urn:uuid:58c08f9e-529d-4820-b19e-860e7482e751</id>
+        <title>v0.0.9 of share_me</title>
+        <updated>2023-04-16T17:21:32.398465Z</updated>
+        <content>ShareMe es un plugin para Flutter que permite compartir fácilmente en apps de iOS y
+            Android. Utiliza menús nativos de compartir para compartir contenido como texto,
+            imágenes y enlaces con otras apps i [...]
+        </content>
+        <link href="https://pub.dev/packages/share_me" rel="alternate" title="share_me" />
+    </entry>
+    <entry>
+        <id>urn:uuid:2eeb384e-0e2f-4947-889b-4651cf842fec</id>
+        <title>v1.0.0 of blured_navigation_bar_x</title>
+        <updated>2023-04-16T17:20:34.508242Z</updated>
+        <content>Blured bottom navigation view</content>
+        <link href="https://pub.dev/packages/blured_navigation_bar_x" rel="alternate"
+            title="blured_navigation_bar_x" />
+    </entry>
+    <entry>
+        <id>urn:uuid:07e8b3ad-d11f-4939-96aa-e0ca14f31bc7</id>
+        <title>v0.160.0 of lucide_icons</title>
+        <updated>2023-04-16T17:19:47.504019Z</updated>
+        <author>
+            <name>lucide.dev</name>
+        </author>
+        <content>A Lucide icon library package for Flutter applications. Fork of Feather Icons, open
+            for anyone to contribute icons.
+        </content>
+        <link href="https://pub.dev/packages/lucide_icons" rel="alternate" title="lucide_icons" />
+    </entry>
+    <entry>
+        <id>urn:uuid:795281fe-773e-4ccf-a734-652b8655735f</id>
+        <title>v1.1.0 of flutter_gb_account_basic</title>
+        <updated>2023-04-16T17:17:45.860467Z</updated>
+        <author>
+            <name>geekbears.com</name>
+        </author>
+        <content>A utility package that helps implementing common account management actions
+        </content>
+        <link href="https://pub.dev/packages/flutter_gb_account_basic" rel="alternate"
+            title="flutter_gb_account_basic" />
+    </entry>
+    <entry>
+        <id>urn:uuid:b1389564-d6a2-485d-9e48-846aefe260aa</id>
+        <title>v1.1.0 of flutter_gb_authentication_basic</title>
+        <updated>2023-04-16T17:14:21.664743Z</updated>
+        <author>
+            <name>geekbears.com</name>
+        </author>
+        <content>Provides basic authentication (credential based)</content>
+        <link href="https://pub.dev/packages/flutter_gb_authentication_basic" rel="alternate"
+            title="flutter_gb_authentication_basic" />
+    </entry>
+    <entry>
+        <id>urn:uuid:72239e57-a8ff-4230-b951-b50848410659</id>
+        <title>v0.0.8 of share_me</title>
+        <updated>2023-04-16T17:07:13.307708Z</updated>
+        <content>ShareMe es un plugin para Flutter que permite compartir fácilmente en apps de iOS y
+            Android. Utiliza menús nativos de compartir para compartir contenido como texto,
+            imágenes y enlaces con otras apps i [...]
+        </content>
+        <link href="https://pub.dev/packages/share_me" rel="alternate" title="share_me" />
+    </entry>
+    <entry>
+        <id>urn:uuid:4315aa39-43e5-46ab-9408-9c5d67ee2ac4</id>
+        <title>v1.2.0 of searchable_paginated_dropdown</title>
+        <updated>2023-04-16T16:55:10.730406Z</updated>
+        <author>
+            <name>mdikcinar.dev</name>
+        </author>
+        <content>Flutter searchable dropdown widget which can be used also with paginated
+            requests.
+        </content>
+        <link href="https://pub.dev/packages/searchable_paginated_dropdown" rel="alternate"
+            title="searchable_paginated_dropdown" />
+    </entry>
+    <entry>
+        <id>urn:uuid:f111d411-854a-47f8-91c5-f55f06b56fe1</id>
+        <title>v0.159.0 of lucide_icons</title>
+        <updated>2023-04-16T16:50:40.004318Z</updated>
+        <author>
+            <name>lucide.dev</name>
+        </author>
+        <content>A Lucide icon library package for Flutter applications. Fork of Feather Icons, open
+            for anyone to contribute icons.
+        </content>
+        <link href="https://pub.dev/packages/lucide_icons" rel="alternate" title="lucide_icons" />
+    </entry>
+    <entry>
+        <id>urn:uuid:c5e0b864-8763-4067-8c17-15ebe14883d8</id>
+        <title>v0.158.0 of lucide_icons</title>
+        <updated>2023-04-16T16:49:22.856009Z</updated>
+        <author>
+            <name>lucide.dev</name>
+        </author>
+        <content>A Lucide icon library package for Flutter applications. Fork of Feather Icons, open
+            for anyone to contribute icons.
+        </content>
+        <link href="https://pub.dev/packages/lucide_icons" rel="alternate" title="lucide_icons" />
+    </entry>
+    <entry>
+        <id>urn:uuid:40aeb630-ac8d-4c33-b251-babdb2e6f057</id>
+        <title>v0.157.0 of lucide_icons</title>
+        <updated>2023-04-16T16:45:42.613078Z</updated>
+        <author>
+            <name>lucide.dev</name>
+        </author>
+        <content>A Lucide icon library package for Flutter applications. Fork of Feather Icons, open
+            for anyone to contribute icons.
+        </content>
+        <link href="https://pub.dev/packages/lucide_icons" rel="alternate" title="lucide_icons" />
+    </entry>
+    <entry>
+        <id>urn:uuid:5e734593-404a-4294-8939-1941c6c14fc3</id>
+        <title>v1.1.0 of firespeed</title>
+        <updated>2023-04-16T16:44:57.796695Z</updated>
+        <content>Speed up your CRUD operations with Firebase Firestore with Generic methods.
+        </content>
+        <link href="https://pub.dev/packages/firespeed" rel="alternate" title="firespeed" />
+    </entry>
+    <entry>
+        <id>urn:uuid:abb2b8c4-52e7-4e38-bf73-ae6087e84616</id>
+        <title>v0.156.0 of lucide_icons</title>
+        <updated>2023-04-16T16:42:19.649475Z</updated>
+        <author>
+            <name>lucide.dev</name>
+        </author>
+        <content>A Lucide icon library package for Flutter applications. Fork of Feather Icons, open
+            for anyone to contribute icons.
+        </content>
+        <link href="https://pub.dev/packages/lucide_icons" rel="alternate" title="lucide_icons" />
+    </entry>
+    <entry>
+        <id>urn:uuid:ae5ba6f8-c8d8-4500-ae1e-97188b403e0c</id>
+        <title>v1.0.3 of resonance</title>
+        <updated>2023-04-16T16:40:15.579031Z</updated>
+        <author>
+            <name>overmindworks.site</name>
+        </author>
+        <content>Resonance is volume controller and vibration plugin. This plugin workaround Android&#39;s
+            volume and vibration controller. Using this plugin let you control volume without user
+            interaction and more custom [...]
+        </content>
+        <link href="https://pub.dev/packages/resonance" rel="alternate" title="resonance" />
+    </entry>
+    <entry>
+        <id>urn:uuid:f2eeb63d-f231-4bfa-8236-42c7d26230a8</id>
+        <title>v1.0.9 of firespeed</title>
+        <updated>2023-04-16T16:20:31.103219Z</updated>
+        <content>Speed up your CRUD operations with Firebase Firestore with Generic methods.
+        </content>
+        <link href="https://pub.dev/packages/firespeed" rel="alternate" title="firespeed" />
+    </entry>
+    <entry>
+        <id>urn:uuid:e953f40b-ef77-45d7-9704-bc03b0c94bb1</id>
+        <title>v0.155.0 of lucide_icons</title>
+        <updated>2023-04-16T16:18:32.421681Z</updated>
+        <author>
+            <name>lucide.dev</name>
+        </author>
+        <content>A Lucide icon library package for Flutter applications. Fork of Feather Icons, open
+            for anyone to contribute icons.
+        </content>
+        <link href="https://pub.dev/packages/lucide_icons" rel="alternate" title="lucide_icons" />
+    </entry>
+    <entry>
+        <id>urn:uuid:b9bf7651-dbc1-485a-85fc-8635db7eb488</id>
+        <title>v1.0.8 of firespeed</title>
+        <updated>2023-04-16T16:16:09.616503Z</updated>
+        <content>Speed up your CRUD operations with Firebase Firestore with Generic methods.
+        </content>
+        <link href="https://pub.dev/packages/firespeed" rel="alternate" title="firespeed" />
+    </entry>
+    <entry>
+        <id>urn:uuid:f100ba7e-4784-49ee-919b-f7deddb75f24</id>
+        <title>v1.0.7 of firespeed</title>
+        <updated>2023-04-16T16:11:21.486526Z</updated>
+        <content>Speed up your CRUD operations with Firebase Firestore with Generic methods.
+        </content>
+        <link href="https://pub.dev/packages/firespeed" rel="alternate" title="firespeed" />
+    </entry>
+    <entry>
+        <id>urn:uuid:55e1598f-7c3a-4f0f-8932-2072b8c8d28d</id>
+        <title>v1.0.1 of easy_timezone</title>
+        <updated>2023-04-16T16:07:20.781473Z</updated>
+        <content>A very easy to use timezone package to Dart and Flutter.</content>
+        <link href="https://pub.dev/packages/easy_timezone" rel="alternate" title="easy_timezone" />
+    </entry>
+    <entry>
+        <id>urn:uuid:78d99dea-b09c-4b30-ae8d-9ea82316ad3d</id>
+        <title>v0.0.1 of ming_cute_icons</title>
+        <updated>2023-04-16T15:59:43.056580Z</updated>
+        <content>MingCute icons.</content>
+        <link href="https://pub.dev/packages/ming_cute_icons" rel="alternate"
+            title="ming_cute_icons" />
+    </entry>
+    <entry>
+        <id>urn:uuid:ebfdeeff-5805-42cb-845d-c36a953c8c64</id>
+        <title>v2.4.0 of searchable_listview</title>
+        <updated>2023-04-16T15:59:33.976257Z</updated>
+        <content>A new easy way to filter listview with simple implementation with possibilty to
+            customize search field and empty widget
+        </content>
+        <link href="https://pub.dev/packages/searchable_listview" rel="alternate"
+            title="searchable_listview" />
+    </entry>
+    <entry>
+        <id>urn:uuid:9544ce38-4014-448c-ab26-21ae0236e696</id>
+        <title>v0.1.0 of python_ffi</title>
+        <updated>2023-04-16T15:52:07.815192Z</updated>
+        <author>
+            <name>ivlivs.dev</name>
+        </author>
+        <content>A Python-FFI for Dart, intended for use in a Flutter project.</content>
+        <link href="https://pub.dev/packages/python_ffi" rel="alternate" title="python_ffi" />
+    </entry>
+    <entry>
+        <id>urn:uuid:4f567201-e3df-4522-9139-628aaf1547fa</id>
+        <title>v0.1.0 of python_ffi_dart</title>
+        <updated>2023-04-16T15:50:10.303400Z</updated>
+        <author>
+            <name>ivlivs.dev</name>
+        </author>
+        <content>A Python-FFI for Dart, intended for Dart-only applications outside of a Flutter
+            project.
+        </content>
+        <link href="https://pub.dev/packages/python_ffi_dart" rel="alternate"
+            title="python_ffi_dart" />
+    </entry>
+    <entry>
+        <id>urn:uuid:3bfd471d-a824-4431-b2da-e46f80a90822</id>
+        <title>v0.1.0 of python_ffi_cpython</title>
+        <updated>2023-04-16T15:45:49.576838Z</updated>
+        <content>The macOS and Windows implementation of python_ffi, a Python-FFI for Dart.
+        </content>
+        <link href="https://pub.dev/packages/python_ffi_cpython" rel="alternate"
+            title="python_ffi_cpython" />
+    </entry>
+    <entry>
+        <id>urn:uuid:acf27aaf-7ad0-4a1d-bd61-c29a0a181f47</id>
+        <title>v0.1.0 of python_ffi_cpython_dart</title>
+        <updated>2023-04-16T15:44:46.510749Z</updated>
+        <content>The macOS and Windows implementation of python_ffi_dart, a Python-FFI for Dart.
+        </content>
+        <link href="https://pub.dev/packages/python_ffi_cpython_dart" rel="alternate"
+            title="python_ffi_cpython_dart" />
+    </entry>
+    <entry>
+        <id>urn:uuid:f926d0f9-85bf-451a-aa77-84a3dbd27ee6</id>
+        <title>v0.1.0-dev.6 of dim_client</title>
+        <updated>2023-04-16T15:27:50.925856Z</updated>
+        <content>DIM demo.</content>
+        <link href="https://pub.dev/packages/dim_client" rel="alternate" title="dim_client" />
+    </entry>
+    <entry>
+        <id>urn:uuid:a8b61b61-5008-47dc-ab2e-c7345595ca63</id>
+        <title>v1.0.0 of easy_timezone</title>
+        <updated>2023-04-16T15:20:23.109779Z</updated>
+        <content>A very easy to use timezone package to Dart and Flutter.</content>
+        <link href="https://pub.dev/packages/easy_timezone" rel="alternate" title="easy_timezone" />
+    </entry>
+    <entry>
+        <id>urn:uuid:407f005c-b7d5-487a-a4c1-b26aa6e558c1</id>
+        <title>v0.1.0-dev.3 of dim_plugins</title>
+        <updated>2023-04-16T15:17:43.122187Z</updated>
+        <content>Decentralized Instant Messaging Plugins</content>
+        <link href="https://pub.dev/packages/dim_plugins" rel="alternate" title="dim_plugins" />
+    </entry>
+    <entry>
+        <id>urn:uuid:755884d3-1bdb-4df9-a308-e7901430a725</id>
+        <title>v0.1.0-dev.6 of dimsdk</title>
+        <updated>2023-04-16T15:17:03.554527Z</updated>
+        <content>Decentralized Instant Messaging Software Development Kit.</content>
+        <link href="https://pub.dev/packages/dimsdk" rel="alternate" title="dimsdk" />
+    </entry>
+</feed>
