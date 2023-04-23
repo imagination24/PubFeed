@@ -18,6 +18,7 @@ class RssPlus {
   }
 
   static Future<List<Radar>> detectByUrl(String url) async {
+    ///test
     List<Radar> radarList = [];
     String? html = await Common.getContentByUrl(Uri.parse(url));
     if (html == null) {
